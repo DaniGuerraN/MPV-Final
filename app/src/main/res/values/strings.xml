@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyFragmentMVP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="lastName">LastName</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="edit">Edit</string>
+    <string name="editUser">Edit User</string>
+    <string name="editCareer">Edit Career</string>
+    <string name="carrer">Career</string>
+    <string name="code">Code</string>
+    <string name="period">Period</string>
+    <string name="newUser">New User</string>
+    <string name="create">Create</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="login">Loing</string>
+    <string name="newStudent">New Student</string>
+    <string name="newCareer">New Career</string>
+
+
+
+
+
+
+
+</resources>
